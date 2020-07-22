@@ -1,0 +1,3 @@
+LegCar,bmw,blue,DIZEL,leather
+Bus,mercedes,red,BENZIN,46,3
+Bus,mercedes,white,BENZIN,46,3
